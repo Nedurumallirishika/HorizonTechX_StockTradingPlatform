@@ -104,9 +104,9 @@ Enter Choice : 1
 
 ## 👩‍💻 Author
 
-**Likhitha Kandanulu**
+**Nedurumalli Rishika**
 
-GitHub: https://github.com/kandanulu-likhitha
+GitHub: https://github.com/Nedurumallirishika
 
 ---
 
